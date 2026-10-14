@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "校园食堂菜单整理台主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "录入每日菜单、价格与个人偏好，在大屏上规划一周餐单"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "食堂菜单整理台"
+    }
+  ]
+}
